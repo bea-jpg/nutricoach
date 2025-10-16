@@ -1,0 +1,7 @@
+{
+  "name": "NutriCoach AI",
+  "description": "Un'applicazione per tracciare i pasti e gli spuntini, con un coach AI per fornire consigli nutrizionali personalizzati e aiutarti a raggiungere i tuoi obiettivi di benessere.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
